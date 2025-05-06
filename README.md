@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" /> Lista de Exercícios 01: Estruturas Básicas  
+#Lista de Exercícios 01: Estruturas Básicas  
 
 ###### [+PraTi & Codifica Edu]
 
@@ -9,35 +9,37 @@ Este projeto é a entrega da lista de exercícios 01 do curso Dev. Full Stack Jr
 
 Para rodar este projeto na sua máquina é necessário fazer a instalação do [Node.js](https://nodejs.org/en). O pacote npm será usado para instalar dependências e rodar scripts de build e execução do projeto, então é necessário usar um terminal com permissão para rodar scripts.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="25" height="25" /> Instalação
+## Instalação
 
 1. Clone ou baixe este repositório:
 
 ```bash
-
+  cd sua-pasta
+  https://github.com/LucasArend/Exercicios-maisprati01.git
 ```
 
 2. Execute o script para baixar as dependências necessárias:
 
 ```sh
-
-
+  cd Exercicios-maisprati01\Exercicios
+  npm install prompt-sync
 ```
 
 Este comando irá instalar o `prompt-sync`, necessário para possibilitar a entrada de dados via linha de comando.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Optical%20Disk.png" alt="Optical Disk" width="25" height="25" /> Execução
+## Execução
+
+node "menu.js"
+
+Para escolher o exercício que deseja executar digite o número do exercício e enter. Para encerrar a execução, é só digitar 0 quando for escolher um exercício.
 
 
 
-
-
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Double%20Exclamation%20Mark.png" alt="Double Exclamation Mark" width="25" height="25" /> Importante
+## Importante
 
 **Certifica-se de estar no diretório certo antes da execução de qualquer comando.**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Lista:
+## Lista:
 
 1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar utilizando uma estrutura de controle if.
 
